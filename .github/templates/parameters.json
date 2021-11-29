@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "databaseAccounts_cpricingcdb_createMode": {
+            "value": null
+        },
+        "sites_cpricing_tocosmosdb_name": {
+            "value": null
+        },
+        "publicIPAddresses_cpricing_name": {
+            "value": null
+        },
+        "virtualNetworks_cpricing_vn_name": {
+            "value": null
+        },
+        "natGateways_cpricing_NATgtwy_name": {
+            "value": null
+        },
+        "namespaces_cpricing_outbound_name": {
+            "value": null
+        },
+        "namespaces_cpricing_ehinbound_name": {
+            "value": null
+        },
+        "serverfarms_ASP_lscnctpricing_bfad_name": {
+            "value": null
+        },
+        "databaseAccounts_cpricingcdb_name": {
+            "value": null
+        },
+        "components_cpricing_tocosmosdb_name": {
+            "value": null
+        },
+        "storageAccounts_lscnctpricingstorage_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountlscnc8365_name": {
+            "value": null
+        },
+        "streamingjobs_cpricing_ehub_tocdb_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___cpricing_tocosmosdb_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_59ee7b44_aa63_4475_b611_0b12d417697a_CUS_externalid": {
+            "value": null
+        }
+    }
+}
